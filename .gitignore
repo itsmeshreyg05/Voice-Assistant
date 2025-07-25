@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.venv
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Data files
+*.sqlite3
+*.db
+*.csv
+*.tsv
+*.dat
+
+# Node.js (if present)
+node_modules/
+
+# Others
+*.swp
+*.swo
+
+# ngrok files
+ngrok-v3-stable-windows-amd64.zip
+ngrok-v3-stable-windows-amd64/
